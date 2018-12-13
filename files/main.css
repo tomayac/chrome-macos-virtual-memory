@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: 'Amstelvar-Roman-VF';
-  src: url('../Amstelvar-Roman-VF.woff2');
+  src: url('../files/Amstelvar-Roman-VF.woff2');
   font-display: swap;
 }
 
@@ -134,7 +134,7 @@ summary::-webkit-details-marker {
 
 summary::after {
   background-color: white;
-  content: url('../img/readmore.svg');
+  content: url('../files/readmore.svg');
   position: absolute;
   right: 0.25rem;
   margin-top: -0.5rem;
